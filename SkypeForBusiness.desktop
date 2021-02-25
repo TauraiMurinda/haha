@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Name=SkypeForBusiness
+Comment=Starts the VirtualBox machine SkypeForBusiness
+Type=Application
+Exec=/usr/lib/virtualbox/VirtualBox --comment "SkypeForBusiness" --startvm "89bb21eb-6b7a-4f19-b5e3-8dad89faadc5"
+Icon=virtualbox-vbox.png
